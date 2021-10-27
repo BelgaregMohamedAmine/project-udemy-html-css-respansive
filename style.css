@@ -778,3 +778,8 @@ footer {
         background-color: #57e3b5;
     }
 }
+body{
+display: flex;
+overflow-x: hidden;
+
+}
